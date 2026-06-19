@@ -114,7 +114,7 @@ Se desarrolló firmware personalizado para el ESP32 encargado de:
 ### Tecnologías
 
 * C++
-* Arduino Framework
+* Arduino IDE
 * ESP32
 
 ---
@@ -126,10 +126,11 @@ Se desarrolló una plataforma web para el monitoreo remoto de variables ambienta
 ### Funcionalidades
 
 * Visualización de datos en tiempo real.
+* Visualización de graficas y comportamiento de los datos.
 * Consulta de variables meteorológicas.
 * Actualización automática de información.
 * Interfaz accesible desde cualquier navegador.
-* Integración con Firebase.
+* Descarga de los datos.
 
 ### Tecnologías
 
@@ -200,14 +201,7 @@ El diseño completo de la PCB fue desarrollado de forma individual como parte de
 
 ## 🛠️ Tecnologías Utilizadas
 
-ESP32 • LoRa • C++ • Arduino IDE • Firebase • HTML • CSS • JavaScript • KiCad • Git • GitHub
+`ESP32` `LoRa` `C++` `Arduino IDE` `Firebase` `HTML` `CSS` `JavaScript` `KiCad` `GitHub`
 
 ---
 
-## 👨‍💻 Autor
-
-**José Miguel Rico Acosta**
-
-Estudiante de Ingeniería de Sistemas Cibernéticos.
-
-Interesado en IoT, Sistemas Embebidos, Analítica de Datos, Desarrollo de Software, Automatización y Diseño Electrónico.
