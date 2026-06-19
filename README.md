@@ -141,7 +141,9 @@ Se desarrolló una plataforma web para el monitoreo remoto de variables ambienta
 
 ### Capturas de Pantalla
 
-*(Agregar imágenes de la plataforma aquí)*
+<img width="1506" height="903" alt="image" src="https://github.com/user-attachments/assets/4111a6db-5b45-494d-bfea-cfb8f1bf03f9" />
+<img width="1075" height="900" alt="image" src="https://github.com/user-attachments/assets/1a03230b-9087-4fb3-bdbb-68376ccbe8c3" />
+<img width="1086" height="905" alt="image" src="https://github.com/user-attachments/assets/72f0e00e-2326-484e-aa62-81872ea8cd2d" />
 
 ---
 
