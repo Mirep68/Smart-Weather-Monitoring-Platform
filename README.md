@@ -182,14 +182,12 @@ El diseño completo de la PCB fue desarrollado de forma individual como parte de
 
 * Esquemático electrónico.
 <img width="658" height="853" alt="image" src="https://github.com/user-attachments/assets/b65fe41d-f548-41e4-a8db-dadb454135be" />
-
+---
 * Diseño PCB.
 <img width="503" height="800" alt="image" src="https://github.com/user-attachments/assets/45d96857-3f17-4176-9202-bf4386f045bb" />
-
+---
 * Renderizado 3D de la tarjeta.
 <img width="1324" height="866" alt="image" src="https://github.com/user-attachments/assets/e61801cb-9719-454a-97c3-4a56f9c55822" />
-
-
 
 ---
 
