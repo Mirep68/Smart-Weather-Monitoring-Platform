@@ -63,7 +63,7 @@ Este componente fue fundamental para lograr una comunicación estable entre esta
 
 ### Página Oficial del Producto
 
-:contentReference[oaicite:0]{index=0}
+https://lilygo.cc/products/lora3 
 
 ### Documentación y Datasheet
 
@@ -71,9 +71,12 @@ La documentación técnica, especificaciones completas y recursos de desarrollo 
 
 ## Evidencia en el Proyecto
 
-*(Agregar aquí fotografías o imágenes del módulo utilizado durante el desarrollo de ReWeather.)*
+<img width="1000" height="850" alt="image" src="https://github.com/user-attachments/assets/ceb4f898-084a-45cc-9e53-1523d19a94bd" />
 
-![ESP32 LoRa32](../images/hardware/esp32-lora32.jpg)
+---
+
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/2e0b4f73-eb68-4956-92d8-ddc91f594008" />
+
 
 ## Tecnologías Relacionadas
 
