@@ -71,6 +71,10 @@ La documentación técnica, especificaciones completas y recursos de desarrollo 
 
 ## Evidencia en el Proyecto
 
+<img width="720" height="1280" alt="WhatsApp Image 2026-06-18 at 9 36 34 PM" src="https://github.com/user-attachments/assets/d59b7e69-830e-4afa-8618-e1018c90c7f4" />
+
+---
+
 <img width="1000" height="850" alt="image" src="https://github.com/user-attachments/assets/ceb4f898-084a-45cc-9e53-1523d19a94bd" />
 
 ---
